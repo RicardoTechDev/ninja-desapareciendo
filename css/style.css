@@ -1,0 +1,21 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: black;
+}
+#logo{
+    width: 450px;
+}
+img{
+    width:200px;
+    height: 200px;
+}
+.row{
+    height: 200px;
+    margin: 10px;
+}
+
+
